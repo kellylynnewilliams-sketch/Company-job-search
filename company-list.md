@@ -1,142 +1,121 @@
 # Kelly Williams — Targeted Company List
 **Kelly L. Williams, MBA, BSN, RN**
-Military Nurse → Deloitte Healthcare Consulting → ConcertAI (RWD/Oncology) → Diaceutics (Precision Medicine/Biomarker Data) → Pharma Digital Marketing
+Military Nurse → Deloitte Healthcare Consulting → ConcertAI (RWD/Oncology AI) → Diaceutics (Precision Medicine/Biomarker Data) → Pharma Digital Marketing
 Philadelphia / South Jersey area | Director–Senior Director level
+
+**Criteria:** Public companies only | Pharma = precision medicine / targeted therapies / complex health system operationalization | No payers | No small RWD vendors
 
 ---
 
 ## Profile Summary
-- **Clinical:** RN/BSN, military nursing background, health system experience
+- **Clinical:** RN/BSN, military nursing, health system experience
 - **Consulting:** Deloitte healthcare/pharma advisory
 - **Commercial/Marketing:** Digital marketing, customer engagement, launch strategy, pharma marketing capabilities
-- **Data & Technology:** Real-world data (RWD/RWE), precision medicine, biomarker/diagnostic-driven analytics (Diaceutics), oncology AI/RWD (ConcertAI), clinical trial technology, product management
-- **Target roles:** Associate Director / Director / Senior Director in Digital Marketing, Customer Engagement, Precision Medicine, Alliance Management, Medical Affairs, External Partnerships, Marketing Capabilities, Product Management, RWE Consulting
+- **Data & Technology:** RWD/RWE, precision medicine, biomarker/diagnostic analytics (Diaceutics), oncology AI/RWD (ConcertAI), clinical trial technology, product management
+- **Alliance / Partnerships:** Diagnostic alliance management, pharma-health system partnerships, external collaborations
+- **Target roles:** Associate Director / Director / Senior Director — Digital Marketing, Customer Engagement, Precision Medicine, Alliance Management, RWE Consulting, Medical Affairs, External Partnerships, Marketing Capabilities
 
 ---
 
-## TIER 1 — Already Actively Pursuing
+## TIER 1 — Actively Pursuing
 
-| Company | Role / Area of Interest | Status | Notes |
+| Company | Role / Focus | Status | Contact / Notes |
 |---|---|---|---|
-| **Merck** | Associate Director, Digital Marketing — Customer Engagement Planning & Measurement | Applied + referral (Diana Ottolini) | Referred Feb 2026 |
-| **Bristol Myers Squibb** | TBD — matched on job alerts | In progress | BMS matching alerts Jan 2026 |
-| **Novo Nordisk** | Regional Account Manager — SE PA / South NJ | Referred | Referred by Thomas Dougherty, Dec 2025 |
-| **GSK** | Sr. Director External Partnerships (Oncology), Sr. Technical PM, Director Medical Affairs, Global Mktg Director, Sr. Dir Marketing Capabilities & Modernization, Sr. Product Director Clinical Trial Site Mgmt | Networking | Connected via Tim, Jan 2026 |
-| **Vertex Pharmaceuticals** | GTAM (Global/Go-to-Market) | Interviewed | Location was a challenge (Midwest role); remain on radar per Sarah Goddard |
-| **Sun Pharma** | Health Systems Director (HSD) — PA/NJ | Interviewing | Interviewed with Rich Bilello, Paige Zak, Carol Jessop, Sep 2025 |
-| **Johnson & Johnson / Janssen** | Associate Director Alliance Manager, Precision Medicine Diagnostics — Immunology | Applied + referral | Resume sent via Sudip Bhandari (JRDUS), Mar 2026 |
-| **Syneos Health** | Strategic Account Director / National Account Manager — Philadelphia | Referred | Jonathan Kurlander referral, Mar 2026 |
-| **Guidehouse** | Associate Director, Life Sciences Advisory — Market Access (Global) | Drafting | LinkedIn alert; 3 connections; draft in progress |
+| **Merck** (MRK) | Associate Director, Digital Marketing — Customer Engagement Planning & Measurement | Applied + referral | Diana Ottolini; referred Feb 2026 |
+| **Bristol Myers Squibb** (BMY) | TBD — matched on job alerts | In progress | BMS alerts Jan 2026 |
+| **Johnson & Johnson / Janssen** (JNJ) | Associate Director Alliance Manager, Precision Medicine Diagnostics — Immunology | Applied + referral | Sudip Bhandari (JRDUS); submitted Mar 2026 |
+| **GSK** (GSK) | Sr. Director External Partnerships (Oncology), Sr. Dir Marketing Capabilities & Modernization, Sr. Technical PM, Director Medical Affairs, Global Mktg Director, Sr. Product Director Clinical Trial Site Mgmt | Networking | Contact: Tim; Jan 2026 |
+| **Vertex Pharmaceuticals** (VRTX) | GTAM (Global/Go-to-Market) | Interviewed | Sarah Goddard; location was a challenge; remain on radar |
+| **Sun Pharma** (SUNPHARMA.NS) | Health Systems Director — PA/NJ | Interviewing | Rich Bilello, Paige Zak, Carol Jessop; Sep 2025 |
 
 ---
 
 ## TIER 2 — Strong Fits, Not Yet Pursuing
-
-### Big Pharma (PA/NJ/DE Headquarters or Major Sites)
-
-| Company | Why You Fit | HQ / Nearby Site | Role Ideas |
-|---|---|---|---|
-| **AstraZeneca** | Large oncology + precision medicine portfolio; heavy on RWD and digital customer engagement | Wilmington, DE (30 min away) | Director Digital Marketing, Sr. Dir. Precision Medicine, External Partnerships |
-| **Johnson & Johnson / Janssen** | Massive pharma + medtech; strong consulting + digital marketing culture | Titusville & Horsham, NJ | Director Customer Engagement, Sr. Dir. Marketing Capabilities, Product Director |
-| **Pfizer** | Post-COVID rebuilding commercial digital infrastructure; RWD + launch marketing | NY (remote/hybrid common) | Sr. Director Marketing Capabilities, Director Digital Strategy |
-| **Eli Lilly** | Exploding growth (GLP-1, oncology); huge investment in precision medicine + digital engagement | Indianapolis (many remote roles) | Director Commercial Digital, Sr. Director Patient Engagement |
-| **AbbVie** | Strong immunology + oncology; building digital marketing capabilities post-Allergan merger | North Chicago (remote roles common) | Director Digital Marketing, Sr. Director Customer Engagement |
-| **Sanofi** | Investing heavily in AI/data-driven marketing; precision medicine push | Bridgewater, NJ | Director Digital Engagement, Sr. Director Data & Analytics |
-| **Amgen** | Oncology + rare disease focus; real-world evidence programs | Thousand Oaks, CA (remote roles) | Sr. Director RWE & Precision Medicine, Director External Partnerships |
-| **Biogen** | Neurology + rare disease; known for innovative patient engagement programs | Cambridge, MA (remote roles) | Director Digital Marketing, Sr. Director Patient Strategy |
-| **Regeneron** | Fast-growing; oncology + rare disease; building commercial capabilities | Tarrytown, NY | Director Commercial Strategy, Sr. Director Digital Marketing |
-| **Teva Pharmaceuticals** | Large specialty pharma with deep digital transformation underway | North Wales, PA (in your backyard) | Director Digital Marketing, Sr. Director Commercial Strategy |
-| **Incyte Corporation** | Oncology-focused; building out commercial and medical teams | Wilmington, DE (30 min away) | Director Medical Affairs / Commercial, External Partnerships |
-| **Jazz Pharmaceuticals** | Specialty pharma; oncology + neuroscience; smaller company = high impact | Philadelphia suburbs (Horsham area) | Director Customer Engagement, Sr. Director Digital Strategy |
+*All companies below are publicly traded. Pharma entries have meaningful precision medicine, targeted therapy, or complex health system operationalization.*
 
 ---
 
-### Real-World Data & Health Analytics (Your RWD Background = Major Differentiator)
+### Precision Oncology & Targeted Therapy — Big Pharma
 
-| Company | Why You Fit | Location | Role Ideas |
+| Company (Ticker) | Precision Medicine / Targeted Story | Nearby Site | Role Ideas |
 |---|---|---|---|
-| **IQVIA** | THE real-world data + pharma insights company; Diaceutics + ConcertAI + Deloitte + digital mktg = all four of their key needs; see `iqvia-alignment.md` for full breakdown | Plymouth Meeting PA / Parsippany NJ / remote | Director RWE Consulting (Oncology/PM), Principal ICS Commercial, Director Precision Medicine, Director Omnichannel Strategy |
-| **Komodo Health** | RWD platform for pharma commercial + medical teams; fast-growing | Remote-first | Director/Sr. Director Commercial Solutions, VP Pharma Partnerships |
-| **Tempus AI** | Precision medicine + genomic data; AI-driven insights for oncology | Chicago (remote roles) | Sr. Director Pharma Partnerships, Director Precision Medicine Strategy |
-| **Flatiron Health** (Roche) | Oncology-specific RWD; working with pharma on RWE strategy | NYC / remote | Director Pharma Solutions, Sr. Director Oncology Insights |
-| **Definitive Healthcare** | Healthcare commercial intelligence; pharma clients | Framingham, MA (remote) | Director Pharma Commercial Strategy |
-| **Inovalon** | Data and analytics for healthcare + pharma; precision medicine adjacent | Bowie, MD (near DC) | Sr. Director Data Strategy, Director Commercial Analytics |
-| **Veeva Systems** | Pharma CRM + marketing cloud (Vault, Veeva CRM, Crossix data); your pharma digital mktg background is a perfect fit | Remote-first | Director/Sr. Director Industry Strategy (Commercial), Sr. Director Customer Success |
+| **AstraZeneca** (AZN) | Gold standard for precision oncology: EGFR/ALK/ROS1 (Tagrisso, Alectinib), HER2-low (Enhertu with DSI), BRCA (Lynparza), ADC platform. Companion Dx required for most launches. | Wilmington, DE — 30 min away | Director Digital Mktg Oncology, Sr. Dir. Precision Medicine Alliance, Director External Partnerships |
+| **Novartis** (NVS) | CAR-T (Kymriah — most complex hospital operationalization in pharma), Zolgensma gene therapy, Pluvicto radioligand therapy (PSMA), Kisqali CDK4/6. Requires health system transformation, not just access. | East Hanover, NJ | Sr. Director Commercial Strategy (Cell & Gene), Director Precision Medicine Partnerships, Director Digital Customer Engagement |
+| **Roche / Genentech** (ROG.SW) | Foundational precision oncology: HER2 (Herceptin/Perjeta/Kadcyla/Phesgo), PDL1 (Tecentriq), owns Foundation Medicine (companion Dx), TIGIT pipeline, personalized neoantigen vaccines. | South San Francisco (remote roles common) | Director RWE/Precision Medicine Strategy, Sr. Director Commercial Solutions, Director Medical Affairs Oncology |
+| **Pfizer** (PFE) | Seagen acquisition = dominant ADC portfolio (Padcev, Tukysa, Adcetris), PARP (Talzenna), CDK4/6 (Ibrance), oncology gene therapy. One of the most complex launch and health system integration portfolios. | NY / Collegeville, PA area | Sr. Director Marketing Capabilities, Director Digital Strategy, Director Launch Excellence |
+| **Eli Lilly** (LLY) | Verzenio CDK4/6 (evolving adjuvant label — complex), JAB-BX101 oncology pipeline, GLP-1 (tirzepatide — requires complex health system operationalization for obesity/T2D). Fastest-growing pharma; heavy digital marketing investment. | Indianapolis (many remote roles) | Director Commercial Digital, Sr. Director Customer Engagement, Director Precision Medicine Strategy |
+| **AbbVie** (ABBV) | Imbruvica + Calquence (BTK targeted), Venclexta (BCL-2 targeted, complex dosing protocol), Skyrizi/Rinvoq (IL-23/JAK precision immunology), ADC pipeline post-ImmunoGen acquisition. | North Chicago (many remote roles) | Director Digital Marketing, Sr. Director Customer Engagement Oncology/Immunology |
+| **Amgen** (AMGN) | KRAS G12C (Lumakras — first KRAS inhibitor; complex testing and narrow indication), BiTE platform (blinatumomab), PCSK9 (Repatha — complex operationalization in cardiology). | Thousand Oaks, CA (many remote roles) | Sr. Director RWE & Precision Medicine, Director Digital Engagement, Director External Partnerships |
+| **Regeneron** (REGN) | Dupilumab (precision IL-4/IL-13 for atopic disease across multiple indications — complex multi-specialty operationalization), Libtayo oncology PD-1, PCSK9, bispecific antibody platform. Fast-growing commercial org. | Tarrytown, NY | Director Commercial Strategy, Sr. Director Digital Marketing, Director Customer Engagement |
+| **Sanofi** (SNY) | Dupilumab partnership (Dupixent) — same complex operationalization story as Regeneron; rare disease (Genzyme) portfolio; iBio precision medicine investment; integrating AI into commercial. | Bridgewater, NJ | Director Digital Engagement, Sr. Director Precision Medicine, Director Rare Disease Commercial |
+| **Incyte** (INCY) | JAK inhibitors (Jakafi — targeted; complex label + lab monitoring), IDO pathway, axitinib/retifanlimab oncology, RET/FGFR targeted pipeline. Pure-play precision oncology/immunology. | Wilmington, DE — 30 min away | Director Medical Affairs / Commercial, Director External Partnerships, Director Digital Marketing |
+| **Biogen** (BIIB) | Neurological precision medicine — Leqembi (Alzheimer's with amyloid PET/CSF testing requirement — extremely difficult health system operationalization), spinal muscular atrophy (Spinraza/Zolgensma competitor), rare neurological. | Cambridge, MA (remote roles) | Director Digital Marketing, Sr. Director Patient Strategy & Engagement, Director Health System Partnerships |
+| **Jazz Pharmaceuticals** (JAZZ) | Oxybate franchise (complex REMS program), Rylaze oncology (asparaginase — health system required), Zepzelca oncology, sleep/oncology specialty focus. Complex access and distribution. | Horsham, PA — right nearby | Director Customer Engagement, Sr. Director Digital Strategy, Director Market Access |
+| **Daiichi Sankyo** (4568.T / US ADR) | ADC co-development with AstraZeneca — Enhertu (trastuzumab deruxtecan, HER2 ultra-low, multi-tumor type) is arguably the most complex precision oncology launch of the decade. HER2 testing in new tumor types. Building out US commercial organization. | Basking Ridge, NJ | Director Precision Medicine Diagnostics, Sr. Director Commercial Strategy, Director Digital Marketing |
+| **Takeda** (TAK) | GI rare disease (vedolizumab — complex biologic), oncology (mobocertinib EGFR exon20), plasma-derived therapies, CAR-T in development, rare disease portfolio requiring health system advocacy. | Lexington, MA / remote | Director Commercial Strategy Rare Disease, Director Digital Engagement, Sr. Director External Partnerships |
+| **Blueprint Medicines** (BPMC) | Pure precision oncology: KIT/PDGFRA (avapritinib in GIST/SM — ultra-narrow indication, requires molecular testing), RET inhibitor (pralsetinib). Small but growing commercial org where Director = high visibility. | Cambridge, MA (hybrid) | Director Commercial Strategy, Director Precision Medicine Partnerships, Director Medical Affairs |
 
 ---
 
-### Pharma Consulting & Services (Leverage Deloitte Pedigree)
+### Precision Diagnostics & Molecular Testing (Public — Complex Health System Operationalization)
+*These companies enable precision medicine in health systems — your Diaceutics background is the exact story they hire.*
 
-| Company | Why You Fit | Location | Role Ideas |
+| Company (Ticker) | Precision Medicine Story | Location | Role Ideas |
 |---|---|---|---|
-| **ZS Associates** | Pure-play pharma/biotech consulting; director-level paths | Philadelphia area + Chicago | Principal, Associate Principal — Commercial Strategy, Marketing Capabilities |
-| **Accenture Life Sciences** | Scaled pharma consulting + digital transformation | Philadelphia office | Managing Director / Sr. Manager, Digital Health & Commercial |
-| **Guidehouse** | Health/life sciences advisory; strong government + commercial practice | DC/remote | Director Health Analytics, Sr. Manager Pharma Commercial |
-| **Syneos Health** | CRO + commercial services hybrid; integrated clinical + commercial | Remote / Morrisville, NC | Sr. Director Commercial Strategy, Director Digital Engagement |
-| **ICON plc** | Global CRO; expanding commercial advisory | Remote / King of Prussia area | Director Clinical Trial Technology, Sr. Director Pharma Partnerships |
+| **Guardant Health** (GH) | Leading liquid biopsy for oncology (Guardant360, Shield colorectal screening). Requires complex health system integration — your biomarker operationalization experience at Diaceutics maps directly. | Redwood City, CA (remote roles) | Sr. Director Pharma Partnerships, Director Commercial Strategy, Director Health System Alliances |
+| **Exact Sciences** (EXAS) | Oncotype DX (breast/colon decision-making tool — requires pathologist and oncologist education, deep health system integration), Cologuard (consumer + health system), Oncodetect liquid biopsy pipeline. | Madison, WI (many remote) | Director Health System Strategy, Sr. Director Pharma/Diagnostics Partnerships, Director Commercial Education |
+| **Natera** (NTRA) | Signatera (ctDNA for MRD monitoring in oncology — requires complex oncology center operationalization), prenatal precision, transplant monitoring. Fast-growing. | Austin, TX (remote roles) | Director Pharma Partnerships, Director Health System Alliances, Sr. Director Commercial Strategy |
+| **Madrigal Pharmaceuticals** (MDGL) | Rezdiffra (resmetirom) for MASH — first approved MASH therapy, requires liver biopsy or non-invasive testing to identify patients, complex hepatology and GI operationalization. Colleague Stefani Smith recently joined. | Conshohocken, PA — in your backyard | Director Commercial Strategy, Director Medical Affairs, Director Digital Engagement |
 
 ---
 
-### Health Insurance / Payers (Underexplored for Your Profile)
+### Technology & Analytics (Public — Pharma-Facing, Not Small RWD)
 
-| Company | Why You Fit | Location | Role Ideas |
+| Company (Ticker) | Why You Fit | Location | Role Ideas |
 |---|---|---|---|
-| **Cigna / Evernorth** | Pharmacy + data + commercial strategy; large pharma-adjacent work | Philadelphia (Bloomfield, CT HQ) | Sr. Director Commercial Strategy, Director Digital Health Partnerships |
-| **Independence Blue Cross** | Largest insurer in greater Philadelphia; RN background is a differentiator for clinical programs | Philadelphia, PA (in your backyard) | Director Clinical Programs & Strategy, Sr. Director Digital Health |
-| **Elevance Health** (Anthem) | Massive payer with growing health tech + precision medicine investments | Indianapolis / remote | Director Precision Medicine, Sr. Director Pharma Partnerships |
+| **IQVIA** (IQV) | THE platform for RWD + pharma commercial analytics. Your Diaceutics + ConcertAI + Deloitte + digital mktg background crosses all four of their key hiring profiles. See `iqvia-alignment.md` for full breakdown. | Plymouth Meeting PA / Parsippany NJ / remote | Director RWE Consulting (Oncology/PM), Principal ICS Commercial, Director Precision Medicine Analytics, Director Omnichannel Strategy |
+| **Veeva Systems** (VEEV) | Pharma's dominant CRM + marketing cloud (Veeva CRM, Vault, Crossix data). Hires ex-pharma commercial and digital marketing leaders as Industry Strategy / Customer Success Directors to advise pharma clients. | Remote-first | Director/Sr. Director Industry Strategy (Commercial), Sr. Director Customer Success, Director Digital Marketing Solutions |
+| **Tempus AI** (TEM) | AI-driven precision oncology data platform; partners with pharma on molecular data + RWE for oncology trials and commercial launches. Public since June 2024. | Chicago (remote roles) | Sr. Director Pharma Partnerships, Director Precision Medicine Strategy, Director Commercial Solutions |
+| **Palantir** (PLTR) | Government + pharma data analytics. Your military background + RWD + data skills = rare fit for their health/life sciences team. Works with DoD and large pharma on complex data operationalization. | NYC / remote | Principal / Sr. Director Health & Life Sciences, Director Pharma Commercial |
+| **Oracle Health** (ORCL) | EHR + health system data; life sciences division sells data and analytics to pharma. Your clinical + tech background bridges clinical and commercial. | Remote / Kansas City | Sr. Director Health Analytics, Director Life Sciences Strategy |
+| **Microsoft Health & Life Sciences** (MSFT) | Azure-powered pharma AI + digital health; growing industry team that sells to pharma commercial and R&D orgs. | Remote | Sr. Director Industry Strategy, Director Pharma Commercial Solutions |
 
 ---
 
-### Health Tech / Digital Health (Emerging + High Growth)
+### Pharma Consulting & Services (Public)
 
-| Company | Why You Fit | Location | Role Ideas |
+| Company (Ticker) | Why You Fit | Location | Role Ideas |
 |---|---|---|---|
-| **Oracle Health** (formerly Cerner) | EHR data + health system tech; your clinical + tech background bridges both worlds | Remote / Kansas City | Sr. Director Health Analytics, Director Life Sciences Strategy |
-| **Microsoft Health & Life Sciences** | Azure-powered pharma AI + digital health; growing team | Remote | Sr. Director Industry Strategy, Director Pharma Commercial |
-| **Palantir** | Health + pharma data analytics government + commercial; your military + data background is rare | NYC / remote | Principal / Sr. Director, Health & Life Sciences |
+| **Accenture Life Sciences** (ACN) | Scaled pharma consulting + digital transformation. Public company. Strong demand for Deloitte-pedigreed consultants who have also lived inside pharma/RWD orgs. | Philadelphia office | Managing Director / Sr. Manager Digital Health & Commercial, Director Precision Medicine Strategy |
+| **ICON plc** (ICLR) | Global CRO; expanding commercial advisory, precision medicine patient identification services for pharma clients. | Remote / King of Prussia area | Director Clinical Trial Technology, Sr. Director Precision Medicine Partnerships |
 
 ---
 
-### Pharma Marketing Agencies (Client-Side or Agency Leadership)
+## TIER 3 — Precision Medicine Diagnostics Infrastructure (Worth Watching)
 
-| Company | Why You Fit | Location | Role Ideas |
-|---|---|---|---|
-| **CMI Media Group** | Pharma media + analytics; Omnicom Health subsidiary | King of Prussia, PA (your area!) | VP/Director Media Strategy, Sr. Director Data & Analytics |
-| **Publicis Health** | Large pharma agency network; digital transformation + data | Philadelphia, PA | VP / Sr. Director Strategy |
-| **Klick Health** | Data-driven pharma agency; strong digital marketing culture | Remote / NYC | Sr. Director Commercial Strategy |
-| **Intouch Group** | Pharma digital marketing; consulting + creative | Remote / Chicago | Sr. Director Strategy & Analytics |
-
----
-
-## TIER 3 — Stretch / Longer-Term (Worth Watching)
-
-| Company | Why It's Interesting | Notes |
+| Company (Ticker) | Why It's Interesting | Notes |
 |---|---|---|
-| **Intuitive Surgical** | Surgical robotics; precision medicine adjacent; strong data platform | Mostly West Coast but remote roles exist |
-| **Becton Dickinson (BD)** | Large medtech; diagnostics + digital health | Franklin Lakes, NJ — close by |
-| **Siemens Healthineers** | Medical imaging + diagnostics + digital health; growing data division | Malvern, PA (right there) |
-| **Aetion** | RWE software platform for pharma; niche but growing fast | NYC / remote |
-| **Madrigal Pharmaceuticals** | Specialty pharma; metabolic disease; colleague Stefani Smith recently joined | Conshohocken, PA (your area) |
-| **ConcertAI (alumni network)** | You worked there — former colleagues likely know IQVIA, Tempus, Flatiron contacts | Remote | Use as referral network into RWD companies |
+| **Becton Dickinson** (BDX) | Large diagnostics + biomarker platforms; flow cytometry, companion Dx infrastructure | Franklin Lakes, NJ — close by |
+| **Siemens Healthineers** (SHL.DE) | Medical imaging + molecular diagnostics + digital health; growing precision medicine data division | Malvern, PA — right there |
+| **Moderna** (MRNA) | mRNA personalized cancer vaccines (mRNA-4157 with Merck) + precision oncology pipeline; building out commercial | Cambridge, MA (remote roles); very early commercial build |
 
 ---
 
-## Industries You Haven't Fully Explored (Given Your Skill Set)
+## Companies Removed (With Rationale)
 
-### 1. Real-World Data / Health Analytics Platforms
-Your ability to translate RWD into commercial insights is increasingly rare. **IQVIA, Veeva, Komodo, and Tempus** specifically need people who speak both clinical and commercial — which is exactly you.
-
-### 2. Health Payers / Insurers
-Your RN credential + MBA + consulting background is unusual at payers like IBC and Cigna. Roles in **Value-Based Care Strategy, Precision Medicine, Digital Health Partnerships, and Clinical Program Design** would have almost no competition from pure-MBA candidates.
-
-### 3. Pharma Technology Vendors (Veeva, Oracle Health)
-Pharma tech vendors need people who can translate their platforms into ROI for pharma clients. Your pharma + digital marketing + data background makes you a natural **Industry Strategy or Customer Success** hire — these roles pay well and offer high visibility.
-
-### 4. Pharma Consulting (ZS Associates, Accenture LS)
-Your Deloitte pedigree + pharma depth would make you a strong Principal/Managing Director candidate at ZS or Accenture. These firms are actively hiring people who have *lived* inside pharma commercial organizations, not just advised them.
-
-### 5. CROs with Commercial Services (Syneos, ICON)
-CROs are expanding into commercial services (market access, patient engagement, digital marketing). Your clinical trial technology experience + commercial pharma background = unique fit for a **Sr. Director Commercial Strategy** or **Director Digital Engagement** role.
+| Removed | Reason |
+|---|---|
+| Cigna / Evernorth, IBC, Elevance Health | Payers — excluded per criteria |
+| Syneos Health | Went private via PE acquisition (2023) |
+| Guidehouse | Private (Veritas Capital PE-backed) |
+| ZS Associates | Privately held |
+| Klick Health, Intouch Group, CMI Media Group | Private |
+| Komodo Health | Private (Vista Equity) |
+| Aetion | Private |
+| Flatiron Health | Private (Roche subsidiary, not independently public) |
+| Definitive Healthcare | Small RWD vendor |
+| Novo Nordisk | GLP-1/metabolic focus; limited precision medicine/companion Dx story |
+| Teva Pharmaceuticals | Generic-heavy; limited targeted/precision medicine profile |
 
 ---
 
@@ -144,17 +123,15 @@ CROs are expanding into commercial services (market access, patient engagement, 
 
 | Contact | Company | Next Step |
 |---|---|---|
-| Tim (last name TBD) | GSK | Follow up on January conversation; request referral to specific role |
-| Sarah Goddard | Vertex | Keep warm; she noted you remain on their radar |
-| Thomas Dougherty | Novo Nordisk | Thank-you follow-up on referral status |
 | Diana Ottolini | Merck | Follow up on referral submission status |
-| Alexa Scalzi | TopStack Group (recruiter) | Check in; share updated target list |
-| Stacy DiStefano | FHS Consulting / CHIEF | Board opportunity follow-up; broader networking |
 | Sudip Bhandari | Johnson & Johnson (JRDUS) | Follow up on Alliance Manager PM Diagnostics referral (submitted Mar 2026) |
-| Jonathan Kurlander | Syneos Health | Follow up on Strategic Account Director / NAM referral (submitted Mar 2026) |
-| Michael Baraldi / Carol Jessop | Sun Pharma | Follow up on HSD role status |
+| Sarah Goddard | Vertex | Keep warm; noted you remain on their radar |
+| Thomas Dougherty | Novo Nordisk | Follow up on referral status |
+| Tim (last name TBD) | GSK | Request referral to specific role; follow up on Jan 2026 conversation |
+| Michael Baraldi / Carol Jessop | Sun Pharma | Follow up on HSD role |
 | Stefani Smith | Madrigal Pharmaceuticals | Reconnect — she recently joined; explore open roles |
+| Stacy DiStefano | FHS Consulting / CHIEF | Board opportunity follow-up; broader networking |
 
 ---
 
-*Last updated: April 2026*
+*Last updated: April 2026 | See `iqvia-alignment.md` for detailed IQVIA department and role breakdown*
