@@ -1,6 +1,6 @@
 # Kelly Williams — Targeted Company List
 **Kelly L. Williams, MBA, BSN, RN**
-Military Nurse → Deloitte Healthcare Consulting → Pharma Digital Marketing / Real-World Data / Technology
+Military Nurse → Deloitte Healthcare Consulting → ConcertAI (RWD/Oncology) → Diaceutics (Precision Medicine/Biomarker Data) → Pharma Digital Marketing
 Philadelphia / South Jersey area | Director–Senior Director level
 
 ---
@@ -9,8 +9,8 @@ Philadelphia / South Jersey area | Director–Senior Director level
 - **Clinical:** RN/BSN, military nursing background, health system experience
 - **Consulting:** Deloitte healthcare/pharma advisory
 - **Commercial/Marketing:** Digital marketing, customer engagement, launch strategy, pharma marketing capabilities
-- **Data & Technology:** Real-world data (RWD), precision medicine, clinical trial technology, product management
-- **Target roles:** Associate Director / Director / Senior Director in Digital Marketing, Customer Engagement, Precision Medicine, Medical Affairs, External Partnerships, Marketing Capabilities, Product Management
+- **Data & Technology:** Real-world data (RWD/RWE), precision medicine, biomarker/diagnostic-driven analytics (Diaceutics), oncology AI/RWD (ConcertAI), clinical trial technology, product management
+- **Target roles:** Associate Director / Director / Senior Director in Digital Marketing, Customer Engagement, Precision Medicine, Alliance Management, Medical Affairs, External Partnerships, Marketing Capabilities, Product Management, RWE Consulting
 
 ---
 
@@ -23,7 +23,10 @@ Philadelphia / South Jersey area | Director–Senior Director level
 | **Novo Nordisk** | Regional Account Manager — SE PA / South NJ | Referred | Referred by Thomas Dougherty, Dec 2025 |
 | **GSK** | Sr. Director External Partnerships (Oncology), Sr. Technical PM, Director Medical Affairs, Global Mktg Director, Sr. Dir Marketing Capabilities & Modernization, Sr. Product Director Clinical Trial Site Mgmt | Networking | Connected via Tim, Jan 2026 |
 | **Vertex Pharmaceuticals** | GTAM (Global/Go-to-Market) | Interviewed | Location was a challenge (Midwest role); remain on radar per Sarah Goddard |
-| **Sun Pharma** | TBD | Networking | Reconnected with Steve Geria, Sep 2025 |
+| **Sun Pharma** | Health Systems Director (HSD) — PA/NJ | Interviewing | Interviewed with Rich Bilello, Paige Zak, Carol Jessop, Sep 2025 |
+| **Johnson & Johnson / Janssen** | Associate Director Alliance Manager, Precision Medicine Diagnostics — Immunology | Applied + referral | Resume sent via Sudip Bhandari (JRDUS), Mar 2026 |
+| **Syneos Health** | Strategic Account Director / National Account Manager — Philadelphia | Referred | Jonathan Kurlander referral, Mar 2026 |
+| **Guidehouse** | Associate Director, Life Sciences Advisory — Market Access (Global) | Drafting | LinkedIn alert; 3 connections; draft in progress |
 
 ---
 
@@ -52,7 +55,7 @@ Philadelphia / South Jersey area | Director–Senior Director level
 
 | Company | Why You Fit | Location | Role Ideas |
 |---|---|---|---|
-| **IQVIA** | THE real-world data + pharma insights company; your exact background in spades | Multiple US offices; Parsippany, NJ | Sr. Director Consulting, Principal / Director RWD Strategy, VP Commercial Insights |
+| **IQVIA** | THE real-world data + pharma insights company; Diaceutics + ConcertAI + Deloitte + digital mktg = all four of their key needs; see `iqvia-alignment.md` for full breakdown | Plymouth Meeting PA / Parsippany NJ / remote | Director RWE Consulting (Oncology/PM), Principal ICS Commercial, Director Precision Medicine, Director Omnichannel Strategy |
 | **Komodo Health** | RWD platform for pharma commercial + medical teams; fast-growing | Remote-first | Director/Sr. Director Commercial Solutions, VP Pharma Partnerships |
 | **Tempus AI** | Precision medicine + genomic data; AI-driven insights for oncology | Chicago (remote roles) | Sr. Director Pharma Partnerships, Director Precision Medicine Strategy |
 | **Flatiron Health** (Roche) | Oncology-specific RWD; working with pharma on RWE strategy | NYC / remote | Director Pharma Solutions, Sr. Director Oncology Insights |
@@ -113,6 +116,8 @@ Philadelphia / South Jersey area | Director–Senior Director level
 | **Becton Dickinson (BD)** | Large medtech; diagnostics + digital health | Franklin Lakes, NJ — close by |
 | **Siemens Healthineers** | Medical imaging + diagnostics + digital health; growing data division | Malvern, PA (right there) |
 | **Aetion** | RWE software platform for pharma; niche but growing fast | NYC / remote |
+| **Madrigal Pharmaceuticals** | Specialty pharma; metabolic disease; colleague Stefani Smith recently joined | Conshohocken, PA (your area) |
+| **ConcertAI (alumni network)** | You worked there — former colleagues likely know IQVIA, Tempus, Flatiron contacts | Remote | Use as referral network into RWD companies |
 
 ---
 
@@ -145,6 +150,10 @@ CROs are expanding into commercial services (market access, patient engagement, 
 | Diana Ottolini | Merck | Follow up on referral submission status |
 | Alexa Scalzi | TopStack Group (recruiter) | Check in; share updated target list |
 | Stacy DiStefano | FHS Consulting / CHIEF | Board opportunity follow-up; broader networking |
+| Sudip Bhandari | Johnson & Johnson (JRDUS) | Follow up on Alliance Manager PM Diagnostics referral (submitted Mar 2026) |
+| Jonathan Kurlander | Syneos Health | Follow up on Strategic Account Director / NAM referral (submitted Mar 2026) |
+| Michael Baraldi / Carol Jessop | Sun Pharma | Follow up on HSD role status |
+| Stefani Smith | Madrigal Pharmaceuticals | Reconnect — she recently joined; explore open roles |
 
 ---
 
