@@ -3,7 +3,7 @@
 Military Nurse → Deloitte Healthcare Consulting → ConcertAI (RWD/Oncology AI) → Diaceutics (Precision Medicine/Biomarker Data) → Pharma Digital Marketing
 Philadelphia / South Jersey area | Director–Senior Director level
 
-**Criteria:** Public companies only | Pharma = precision medicine / targeted therapies / complex health system operationalization | No payers | No small RWD vendors
+**Criteria:** Public companies only | Pharma = precision medicine / targeted therapies / cell & gene therapy / complex health system operationalization | No payers | No small RWD vendors
 
 ---
 
@@ -66,6 +66,20 @@ Philadelphia / South Jersey area | Director–Senior Director level
 | **Exact Sciences** (EXAS) | Oncotype DX (breast/colon decision-making tool — requires pathologist and oncologist education, deep health system integration), Cologuard (consumer + health system), Oncodetect liquid biopsy pipeline. | Madison, WI (many remote) | Director Health System Strategy, Sr. Director Pharma/Diagnostics Partnerships, Director Commercial Education |
 | **Natera** (NTRA) | Signatera (ctDNA for MRD monitoring in oncology — requires complex oncology center operationalization), prenatal precision, transplant monitoring. Fast-growing. | Austin, TX (remote roles) | Director Pharma Partnerships, Director Health System Alliances, Sr. Director Commercial Strategy |
 | **Madrigal Pharmaceuticals** (MDGL) | Rezdiffra (resmetirom) for MASH — first approved MASH therapy, requires liver biopsy or non-invasive testing to identify patients, complex hepatology and GI operationalization. Colleague Stefani Smith recently joined. | Conshohocken, PA — in your backyard | Director Commercial Strategy, Director Medical Affairs, Director Digital Engagement |
+
+---
+
+### Cell & Gene Therapy (Public — Highest Complexity Operationalization in Pharma)
+*CAR-T and gene therapy are the most operationally demanding launches in modern pharma. Patient identification requires biomarker testing (your Diaceutics story). Administration requires credentialing specialized treatment centers (your alliance management story). Your RN credential means you can speak authentically to the infusion, conditioning, and clinical workflow complexity that most commercial candidates cannot.*
+
+| Company (Ticker) | Cell/Gene Therapy Story | Nearby Site | Role Ideas |
+|---|---|---|---|
+| **Gilead Sciences / Kite** (GILD) | Largest commercial CAR-T organization: Yescarta (axicabtagene ciloleucel, DLBCL/FL) and Tecartus (brexucabtagene, MCL/ALL). Kite manages a national network of Authorized Treatment Centers (ATCs) — your alliance management + health system experience maps directly. Also has HIV precision medicine (Sunlenca/Biktarvy) and oncology pipeline. | Santa Monica, CA (Kite) + Foster City, CA — many remote roles | Sr. Director Cell Therapy Commercial Strategy, Director ATC Network/Alliance Management, Director Digital Customer Engagement, Director Precision Medicine Partnerships |
+| **Sarepta Therapeutics** (SRPT) | Elevidys (delandistrogene moxeparvovec) — gene therapy for DMD; requires genetic testing (out-of-frame deletion confirmation), REMS, Qualified Treatment Centers. One of the most complex health system operationalization stories active in market. Patient identification challenge = your Diaceutics story in a new therapeutic area. Multiple DMD drugs across modalities. | Cambridge, MA (hybrid/remote) | Director Health System Strategy, Sr. Director Precision Medicine Partnerships, Director Patient Identification & Biomarker Access, Director Commercial Strategy |
+| **Legend Biotech** (LEGN) | Co-commercializes Carvykti (ciltacabtagene autoleucel, RRMM) with Johnson & Johnson — already a company you're pursuing. Small enough that a Director here has real visibility; building out commercial capabilities now. CAR-T manufacturing slot allocation + health system credentialing = extremely complex. | Somerset, NJ — 40 min from Philadelphia | Director Commercial Strategy, Director Health System Alliances, Director Digital Marketing, Director Medical Affairs |
+| **CRISPR Therapeutics** (CRSP) | Casgevy (exagamglogene autotemcel) — co-developed with **Vertex Pharmaceuticals** (your Tier 1 target). First CRISPR-based therapy; requires apheresis centers, stem cell mobilization, myeloablative conditioning, specialized infusion. Arguably the most complex administration pathway in pharma history. Your Vertex relationship is a natural bridge here. | Zug, Switzerland / Cambridge, MA — US commercial remote-friendly | Director Commercial Strategy, Director Health System Alliances, Director Patient Journey & Access, Director Precision Medicine |
+| **Ultragenyx Pharmaceutical** (RARE) | Gene therapy + rare metabolic disease (Wilson disease gene therapy, Angelman syndrome, lysosomal storage diseases). Patient identification requires newborn screening integration + genetic testing. Health system advocacy-intensive. Commercial team is lean and high-impact. | Novato, CA — most roles remote | Director Commercial Strategy Rare Disease, Director Health System Partnerships, Director Patient Identification & Biomarker Strategy |
+| **Krystal Biotech** (KRYS) | Vyjuvek (beremagene geperpavec) — first and only redosable gene therapy for dystrophic epidermolysis bullosa (DEB). Unique model: administered topically by home health nurses, requiring home health network partnership and patient education infrastructure. Commercial + alliance approach is unlike any other gene therapy. | Pittsburgh, PA — close to Philadelphia corridor | Director Commercial Strategy, Director Alliance Management (Home Health), Director Patient Access |
 
 ---
 
