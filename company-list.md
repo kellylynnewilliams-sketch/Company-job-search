@@ -5,6 +5,8 @@ Philadelphia / South Jersey area | Director–Senior Director level
 
 **Criteria:** Public companies only | Pharma = precision medicine / targeted therapies / cell & gene therapy / complex health system operationalization | No payers | No small RWD vendors
 
+**Current Focus (Aug–Nov 2026): Pharmaceutical companies only.** Pharma commercial/medical affairs teams do the bulk of their director-level hiring in Q3/Q4 for January starts and budget-year headcount — diagnostics, tech, and consulting companies below are parked, not removed, and will come back into rotation later.
+
 ---
 
 ## Profile Summary
@@ -14,6 +16,20 @@ Philadelphia / South Jersey area | Director–Senior Director level
 - **Data & Technology:** RWD/RWE, precision medicine, biomarker/diagnostic analytics (Diaceutics), oncology AI/RWD (ConcertAI), clinical trial technology, product management
 - **Alliance / Partnerships:** Diagnostic alliance management, pharma-health system partnerships, external collaborations
 - **Target roles:** Associate Director / Director / Senior Director — Digital Marketing, Customer Engagement, Precision Medicine, Alliance Management, RWE Consulting, Medical Affairs, External Partnerships, Marketing Capabilities
+
+---
+
+## Active Pharma Roster (Aug–Nov 2026 Push)
+
+All pharmaceutical/biotech manufacturers currently in scope, in one place:
+
+**Tier 1:** Merck, BMS, J&J/Janssen, GSK, Vertex, Sun Pharma
+**Tier 2 — Big Pharma Precision Oncology/Targeted:** AstraZeneca, Novartis, Roche/Genentech, Pfizer, Eli Lilly, AbbVie, Amgen, Regeneron, Sanofi, Incyte, Biogen, Jazz, Daiichi Sankyo, Takeda, Blueprint Medicines
+**Tier 2 — MASH/Hepatology:** Madrigal
+**Tier 2 — Cell & Gene Therapy:** Gilead/Kite, Sarepta, Legend Biotech, CRISPR Therapeutics, Ultragenyx, Krystal Biotech
+**Tier 3:** Moderna
+
+*(Diagnostics, technology/analytics, and consulting/services companies are parked below, not deleted — see PARKED sections.)*
 
 ---
 
@@ -57,14 +73,23 @@ Philadelphia / South Jersey area | Director–Senior Director level
 
 ---
 
-### Precision Diagnostics & Molecular Testing (Public — Complex Health System Operationalization)
-*These companies enable precision medicine in health systems — your Diaceutics background is the exact story they hire.*
+### Precision Diagnostics & Molecular Testing (PARKED — not pharma, resume later)
+*Guardant Health, Exact Sciences, Natera moved here — diagnostics companies, not pharmaceutical manufacturers, so out of scope during the pharma-hiring-season push. Full detail preserved below for when this reopens.*
 
 | Company (Ticker) | Precision Medicine Story | Location | Role Ideas |
 |---|---|---|---|
 | **Guardant Health** (GH) | Leading liquid biopsy for oncology (Guardant360, Shield colorectal screening). Requires complex health system integration — your biomarker operationalization experience at Diaceutics maps directly. | Redwood City, CA (remote roles) | Sr. Director Pharma Partnerships, Director Commercial Strategy, Director Health System Alliances |
 | **Exact Sciences** (EXAS) | Oncotype DX (breast/colon decision-making tool — requires pathologist and oncologist education, deep health system integration), Cologuard (consumer + health system), Oncodetect liquid biopsy pipeline. | Madison, WI (many remote) | Director Health System Strategy, Sr. Director Pharma/Diagnostics Partnerships, Director Commercial Education |
 | **Natera** (NTRA) | Signatera (ctDNA for MRD monitoring in oncology — requires complex oncology center operationalization), prenatal precision, transplant monitoring. Fast-growing. | Austin, TX (remote roles) | Director Pharma Partnerships, Director Health System Alliances, Sr. Director Commercial Strategy |
+
+**Madrigal Pharmaceuticals (MDGL) moved to the Pharma section below — it's a pharmaceutical manufacturer, stays active.**
+
+---
+
+### Pharmaceutical — MASH / Hepatology
+
+| Company (Ticker) | Precision Medicine / Targeted Story | Nearby Site | Role Ideas |
+|---|---|---|---|
 | **Madrigal Pharmaceuticals** (MDGL) | Rezdiffra (resmetirom) for MASH — first approved MASH therapy, requires liver biopsy or non-invasive testing to identify patients, complex hepatology and GI operationalization. Colleague Stefani Smith recently joined. | Conshohocken, PA — in your backyard | Director Commercial Strategy, Director Medical Affairs, Director Digital Engagement |
 
 ---
@@ -83,7 +108,8 @@ Philadelphia / South Jersey area | Director–Senior Director level
 
 ---
 
-### Technology & Analytics (Public — Pharma-Facing, Not Small RWD)
+### Technology & Analytics (PARKED — not pharma, resume later)
+*IQVIA, Veeva, Tempus, Palantir, Oracle, Microsoft — vendors/platforms that sell TO pharma, not pharmaceutical manufacturers. Out of scope during the pharma-hiring-season push (IQVIA detail stays in `iqvia-alignment.md` for later).*
 
 | Company (Ticker) | Why You Fit | Location | Role Ideas |
 |---|---|---|---|
@@ -96,7 +122,8 @@ Philadelphia / South Jersey area | Director–Senior Director level
 
 ---
 
-### Pharma Consulting & Services (Public)
+### Pharma Consulting & Services (PARKED — not pharma, resume later)
+*Accenture, ICON — services/CRO firms that serve pharma, not pharmaceutical manufacturers. Out of scope during the pharma-hiring-season push.*
 
 | Company (Ticker) | Why You Fit | Location | Role Ideas |
 |---|---|---|---|
@@ -105,13 +132,20 @@ Philadelphia / South Jersey area | Director–Senior Director level
 
 ---
 
-## TIER 3 — Precision Medicine Diagnostics Infrastructure (Worth Watching)
+## TIER 3 — Pharmaceutical, Early/Emerging Commercial (Worth Watching)
+
+| Company (Ticker) | Why It's Interesting | Notes |
+|---|---|---|
+| **Moderna** (MRNA) | mRNA personalized cancer vaccines (mRNA-4157 with Merck) + precision oncology pipeline; building out commercial | Cambridge, MA (remote roles); very early commercial build |
+
+*Becton Dickinson and Siemens Healthineers moved to PARKED — medtech/diagnostics infrastructure, not pharmaceutical manufacturers.*
+
+### PARKED — Diagnostics Infrastructure (not pharma, resume later)
 
 | Company (Ticker) | Why It's Interesting | Notes |
 |---|---|---|
 | **Becton Dickinson** (BDX) | Large diagnostics + biomarker platforms; flow cytometry, companion Dx infrastructure | Franklin Lakes, NJ — close by |
 | **Siemens Healthineers** (SHL.DE) | Medical imaging + molecular diagnostics + digital health; growing precision medicine data division | Malvern, PA — right there |
-| **Moderna** (MRNA) | mRNA personalized cancer vaccines (mRNA-4157 with Merck) + precision oncology pipeline; building out commercial | Cambridge, MA (remote roles); very early commercial build |
 
 ---
 
@@ -148,4 +182,4 @@ Philadelphia / South Jersey area | Director–Senior Director level
 
 ---
 
-*Last updated: April 2026 | See `iqvia-alignment.md` for detailed IQVIA department and role breakdown*
+*Last updated: August 2026 | Focus narrowed to pharmaceutical manufacturers only for the Aug–Nov 2026 hiring push | See `iqvia-alignment.md` for detailed IQVIA department and role breakdown (parked for now)*
